@@ -205,8 +205,8 @@ def create_gui():
     root.resizable(False, False)
 
     # Load and resize flags / Завантаження та зміна розмір прапорів
-    flag_ukraine = load_and_resize_flag("Flag_of_Ukraine.png")
-    flag_uk = load_and_resize_flag("Flag_of_United_Kingdom.png")
+    flag_ukraine = load_and_resize_flag("source/Flag_of_Ukraine.png")
+    flag_uk = load_and_resize_flag("source/Flag_of_United_Kingdom.png")
 
     # Title Label / Заголовок
     title_label = tk.Label(root, text=translate("title"), font=("Verdana", 24, "bold"), bg="#2c2c2c", fg="#ffffff")
