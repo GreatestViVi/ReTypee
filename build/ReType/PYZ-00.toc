@@ -1,4 +1,4 @@
-('C:\\Re_Type\\build\\Retype\\PYZ-00.pyz',
+('C:\\Re_Type\\build\\ReType\\PYZ-00.pyz',
  [('PIL',
    'C:\\Re_Type\\.venv\\Lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
